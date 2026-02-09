@@ -1,16 +1,78 @@
-## Hi there 👋
+# 💫 Hey there! I'm Sabrina.
 
-<!--
-**sabrinasavini/sabrinasavini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table border="0">
+  <tr>
+    <td width="60%">
+      <img 
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=7F52FF&width=500&lines=From+logic+to+interface"
+        alt="Typing intro"
+      />
+      <p>
+        Full Stack Developer with a background from <b>SENAI</b> and currently pursuing a 
+        <b>Bachelor’s Degree in Information Systems</b> at <b>São Judas University</b>.
+        Passionate about <b>AI</b>, <b>digital products</b>, and building solutions that balance solid logic with great design.
+      </p>
+      <p><i>🌱 Always learning. Always building.</i></p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=sabrinasavini&theme=transparent&hide_border=true&show_icons=true&text_color=7f52ff" width="100%">
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+* **Bachelor’s Degree in Information Systems** | São Judas University (In Progress)
+* **Technical Degree in Systems Development** | SENAI
+* **Technical Support Operator** | SENAI
+
+---
+
+## 💻 My Tech Universe
+
+### 🎨 Frontend & Design
+> Creating intuitive and aesthetically pleasing interfaces.
+<br>
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend & Mobile
+> Robust logic and cross-platform development.
+<br>
+
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠️ Ecosystem & Tools
+> Deployment, analysis, and productivity.
+<br>
+
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## 📊 Performance Metrics
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sabrinasavini&theme=transparent&hide_border=true&stroke=7f52ff&ring=7f52ff&fire=7f52ff" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinasavini&theme=transparent&hide_border=true&layout=compact&title_color=7f52ff" width="48%">
+</p>
+
+---
+
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabrinasavini)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssavinifras@gmail.com)
