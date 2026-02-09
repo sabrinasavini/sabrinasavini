@@ -1,52 +1,37 @@
 # 💫 Hey there! I'm Sabrina.
 
-<table border="0">
-  <tr>
-    <td width="60%">
-      <img 
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=7F52FF&width=500&lines=From+logic+to+interface"
-        alt="Typing intro"
-      />
-      <p>
-        Full Stack Developer with a background from <b>SENAI</b> and currently pursuing a 
-        <b>Bachelor’s Degree in Information Systems</b> at <b>São Judas University</b>.
-        Passionate about <b>AI</b>, <b>digital products</b>, and building solutions that balance solid logic with great design.
-      </p>
-      <p><i>🌱 Always learning. Always building.</i></p>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=sabrinasavini&theme=transparent&hide_border=true&show_icons=true&text_color=7f52ff" width="100%">
-    </td>
-  </tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=7F52FF&width=435&lines=From+logic+to+interface." alt="Typing intro" />
+
+Full Stack Developer with a background from **SENAI** and currently pursuing a **Bachelor’s Degree in Information Systems** at **São Judas University**.  
+Interested in **AI**, **digital products**, and building solutions where logic and interface work together.
+
+*🌱 Always learning. Always building.*
 
 ---
 
 ## 🎓 Education
-* **Bachelor’s Degree in Information Systems** | São Judas University (In Progress)
+* **B.S. in Information Systems** | São Judas University *(In Progress)*
 * **Technical Degree in Systems Development** | SENAI
 * **Technical Support Operator** | SENAI
 
 ---
 
-## 💻 My Tech Universe
+## 💻 Tech Stack
 
-### 🎨 Frontend & Design
-> Creating intuitive and aesthetically pleasing interfaces.
-<br>
+### 🎨 Frontend & UI
+> Interfaces, usability, and visual clarity.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### ⚙️ Backend & Mobile
-> Robust logic and cross-platform development.
-<br>
+> Logic, structure, and data.
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -54,9 +39,8 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🛠️ Ecosystem & Tools
-> Deployment, analysis, and productivity.
-<br>
+### 🛠️ Tools & Ecosystem
+> Build, deploy, and analyze.
 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -65,10 +49,9 @@
 
 ---
 
-## 📊 Performance Metrics
+## 📊 GitHub Activity
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sabrinasavini&theme=transparent&hide_border=true&stroke=7f52ff&ring=7f52ff&fire=7f52ff" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinasavini&theme=transparent&hide_border=true&layout=compact&title_color=7f52ff" width="48%">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sabrinasavini&theme=transparent&hide_border=true&stroke=7f52ff&ring=7f52ff&fire=7f52ff" width="48%" />
 </p>
 
 ---
