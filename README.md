@@ -51,7 +51,7 @@ Interested in **AI**, **digital products**, and building solutions where logic a
 
 ## 📊 GitHub Activity
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sabrinasavini&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sabrinasavini&show_icons=true" />
 </p>
 
 ---
