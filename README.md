@@ -5,7 +5,7 @@
 Full Stack Developer with a background from **SENAI** and currently pursuing a **Bachelor’s Degree in Information Systems** at **São Judas University**.  
 Interested in **AI**, **digital products**, and building solutions where logic and interface work together.
 
-*🌱 Always learning. Always building.*
+* Always learning. Always building.*
 
 ---
 
@@ -51,7 +51,7 @@ Interested in **AI**, **digital products**, and building solutions where logic a
 
 ## 📊 GitHub Activity
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sabrinasavini&theme=transparent&hide_border=true&stroke=7f52ff&ring=7f52ff&fire=7f52ff" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sabrinasavini&theme=default&hide_border=true" />
 </p>
 
 ---
