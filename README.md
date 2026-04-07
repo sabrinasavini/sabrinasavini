@@ -1,11 +1,11 @@
-# 💫 Hey there! I'm Sabrina.
+#  Hey there! I'm Sabrina.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=7F52FF&width=435&lines=From+logic+to+interface." alt="Typing intro" />
 
 Full Stack Developer with a background from **SENAI** and currently pursuing a **Bachelor’s Degree in Information Systems** at **São Judas University**.  
 Interested in **AI**, **digital products**, and building solutions where logic and interface work together.
 
-*🌱 Always learning. Always building.*
+**Always learning. Always building.**
 
 ---
 
@@ -16,9 +16,9 @@ Interested in **AI**, **digital products**, and building solutions where logic a
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
-### 🎨 Frontend & UI
+###  Frontend & UI
 > Interfaces, usability, and visual clarity.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -30,7 +30,7 @@ Interested in **AI**, **digital products**, and building solutions where logic a
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### ⚙️ Backend & Mobile
+###  Backend & Mobile
 > Logic, structure, and data.
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -39,7 +39,7 @@ Interested in **AI**, **digital products**, and building solutions where logic a
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🛠️ Tools & Ecosystem
+###  Tools & Ecosystem
 > Build, deploy, and analyze.
 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
