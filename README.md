@@ -9,7 +9,7 @@ Interested in **AI**, **digital products**, and building solutions where logic a
 
 ---
 
-## 🎓 Education
+##  Education
 * **B.S. in Information Systems** | São Judas University *(In Progress)*
 * **Technical Degree in Systems Development** | SENAI
 * **Technical Support Operator** | SENAI
